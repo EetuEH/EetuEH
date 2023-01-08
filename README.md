@@ -9,7 +9,7 @@
      - eehaan@utu.fi
 
 
-🚨 P.S. More projects are undergoing work and coming here soon!
+🚨 P.S. More projects are undergoing work and coming here very soon!
 
 <!---
 EetuEH/EetuEH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
