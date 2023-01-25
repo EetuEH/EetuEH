@@ -1,12 +1,10 @@
-- 👋 Hi, I’m Eetu Haanpää
+- 👋 Hi, I’m Eetu
 - 👀 I’m interested in programming and software development
 - 🌱 I’m currently learning front-end web development
 - 📫 How to reach me: 
      - https://www.linkedin.com/in/eetu-haanp%C3%A4%C3%A4/
       
     - eetuhbusiness@gmail.com
-      
-     - eehaan@utu.fi
 
 
 🚨 P.S. Updates to current projects are in the works and coming here very very soon!
