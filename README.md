@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Eetu
-- 👀 I’m interested in programming and software development
-- 🌱 I’m currently learning front-end web development
+- 👀 I’m interested in software development and data analytics
 - 📫 How to reach me:
       eetuhbusiness@gmail.com
 
