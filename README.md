@@ -2,9 +2,9 @@
 - 👀 I’m interested in programming and software development
 - 🌱 I’m currently learning front-end web development
 - 📫 How to reach me:
+      eetuhbusiness@gmail.com
 
-
-🚨 P.S. Updates to current projects are in the works and coming here very very soon!
+🚨 P.S. If you wish to see projects concerning data-analytics, contact me through email.
 
 <!---
 EetuEH/EetuEH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
