@@ -4,7 +4,7 @@
 - 📫 How to reach me:
       eetuhbusiness@gmail.com
 
-🚨 P.S. If you wish to see projects concerning data-analytics, contact me through email.
+🚨 P.S. Data analysis projects are not uploaded here deliberately. Contact me through email, if you wish to learn more about them.
 
 <!---
 EetuEH/EetuEH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
